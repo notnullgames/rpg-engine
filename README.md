@@ -6,7 +6,7 @@ The idea is to eventually be able to do everything RPG Maker can do, extremenly 
 
 Here are the main sections we'd like to eventually support:
 
-- [ ] Tile maps - load them efficiently using only [GLSL]((https://blog.tojicode.com/2012/08/more-gpu-tile-map-demos-zelda.html).
+- [ ] Tile maps - load them efficiently using only [GLSL](https://blog.tojicode.com/2012/08/more-gpu-tile-map-demos-zelda.html).
 - [ ] Sprites - animation, also done entirely in GLSL, if possible
 - [ ] Dialog - simple themable dialog UI
 - [ ] save-system
